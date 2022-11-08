@@ -1,3 +1,9 @@
+## 为什么会fork这个项目
+1. 项目需要对fdb进行测试, 但内嵌的测试没有说明, 需要看代码才知道怎么用
+## 预计产出
+* 测试参数说明
+* 如何自定义测试用例
+
 <img alt="FoundationDB logo" src="documentation/FDB_logo.png?raw=true" width="400">
 
 ![Build Status](https://codebuild.us-west-2.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoiVjVzb1RQNUZTaGxGNm9iUnk4OUZ1d09GdTMzZnVOT1YzaUU1RU1xR2o2TENRWFZjb3ZrTHJEcngrZVdnNE40bXJJVDErOGVwendIL3lFWFY3Y3oxQmdjPSIsIml2UGFyYW1ldGVyU3BlYyI6IlJUbWhnaUlJVXRORUNJTjQiLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=main)
